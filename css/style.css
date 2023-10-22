@@ -1,6 +1,6 @@
 /* Home */
 .home{
-    background-image:  url(/midtermproject/img/bground3.jpg);
+    background-image:  url(/MidtermProject01/img/bground3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -97,7 +97,7 @@ mark {
 
 /* RESORT */
 .resort{
-    background-image:  url(/midtermproject/img/bground3.jpg);
+    background-image:  url(/MidtermProject01/img/bground3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -170,7 +170,7 @@ table tr th {
 
 /* TOURIST */
 .tourist {
-    background-image:  url(/midtermproject/img/bground3.jpg);
+    background-image:  url(/MidtermProject01/img/bground3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -255,7 +255,7 @@ table tr th {
 
 /* PRODUCT */
 .product {
-    background-image:  url(/midtermproject/img/bground3.jpg);
+    background-image:  url(/MidtermProject01/img/bground3.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -346,17 +346,17 @@ table tr th {
 }
   
 .cards .binakol {
-    background-image: url(/midtermproject/img/binakol1.jpg);
+    background-image: url(/MidtermProject01/img/binakol1.jpg);
     background-size: cover;
 }
   
 .cards .tupig {
-    background-image: url(/midtermproject/img/tupig.jpg);
+    background-image: url(/MidtermProject01/img/tupig.jpg);
     background-size: cover;
 }
   
 .cards .sapinsapin {
-    background-image: url(/midtermproject/img/sapinsapin.JPG);
+    background-image: url(/MidtermProject01/img/sapinsapin.JPG);
     background-size: cover;
 }
   
@@ -403,7 +403,7 @@ table tr th {
 
   /*About Us*/
 .about {
-    background-image:  url(/midtermproject/img/bground3.jpg);
+    background-image:  url(/MidtermProject01/img/bground3.jpg);
     background-size: 210vh 70vh;
     background-repeat: no-repeat;
     background-attachment: fixed;
